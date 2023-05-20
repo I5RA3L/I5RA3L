@@ -1,11 +1,11 @@
-### Olá! Eu sou o Israel 👋
+### Oii! Eu me chamo Israel 👋
 ##
-- 🔭 Hoje trabalho na Nouryon  
-- 🌱 Estou estudando a HTML e as CSS
-- 🤔 Estou procurando me especializar em Front-end
-
+- 🔭 Hoje trabalho na Nouryon.
+- 🌱 Estou estudando HTML e CSS.
+- 🤔 Estou procurando me especializar em Front-end.
+###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 ![I5RA3L GitHub Stats](https://github-readme-stats.vercel.app/api?username=I5RA3L&show_icons=true&theme=dracula&count_private=true)
-###### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
