@@ -3,7 +3,7 @@
 - 🌱 Estou estudando HTML e CSS.
 - 🤔 Estou procurando me especializar em Front-end.
 ###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-##
+
 ![I5RA3L GitHub Stats](https://github-readme-stats.vercel.app/api?username=I5RA3L&show_icons=true&theme=dracula&count_private=true)
 
 ##### _Estou estudando!_
@@ -17,6 +17,7 @@
 </div>
   
   ##
+  
  #####  _Contatos_
 <div> 
   <a href="https://www.instagram.com/israel__ribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
