@@ -1,6 +1,6 @@
 ### Oii! Eu me chamo Israel 👋
 - 🔭 Hoje trabalho na Nouryon.
-- 🌱 Estou estudando HTML e CSS.
+- 🌱 Estou estudando HTML, CSS, SQL e Python.
 - 🤔 Estou procurando me especializar em Front-end.
 ###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
