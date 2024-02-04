@@ -4,7 +4,6 @@
 - 🤔 Estou procurando me especializar em Front-end.
 ###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-![I5RA3L GitHub Stats](https://github-readme-stats.vercel.app/api?username=I5RA3L&show_icons=true&theme=onedark&count_private=true)
 
 ##### _Estou estudando!_
 <div style="display: inline_block"><br>
